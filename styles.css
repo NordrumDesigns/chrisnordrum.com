@@ -18,6 +18,7 @@ body {
 
 img {
     max-width: 100%;
+    height: auto;
 }
 
 ul, menu {
@@ -177,7 +178,7 @@ footer small {
     }
 }
 
-@media screen and (min-width: 864px) {
+@media screen and (min-width: 880px) {
     #portfolio figure:last-child img {
         aspect-ratio: 2.5/1;
         object-fit: cover;
