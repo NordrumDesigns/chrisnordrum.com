@@ -206,6 +206,9 @@ footer small {
     footer {
         grid-template-columns: 9.8fr 5.1fr 2.5fr;
     }
+    footer h3 {
+        padding-bottom: 0.5em;
+    }
 }
 
 @media screen and (min-width: 880px) {
