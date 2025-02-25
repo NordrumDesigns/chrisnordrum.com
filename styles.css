@@ -73,7 +73,7 @@ h1 {
     align-items: center;
     gap: 1em;
     border-bottom: dotted 1px #07070a;
-    padding: 30px 0 50px;
+    padding: 2em 0 50px;
     text-align: center;
 }
 
@@ -151,7 +151,7 @@ footer {
     display: grid;
     gap: 1em;
     border-top: solid 1px #07070a;
-    padding-top: 1.5rem;
+    padding-top: 2em;
 }
 
 .contact a:hover {
